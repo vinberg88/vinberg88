@@ -44,5 +44,5 @@ I help teams build reliable products faster — with clear architecture, clean e
 - YOUTUBE: https://www.youtube.com/@mattiasvinberg
 - Email: mattias@vinberg.pm
 - FACEBOOK: https://www.facebook.com/mattiasvinberg
-- https://bsky.app: https://bsky.app/profile/mattiasvinberg.bsky.social
+- Bsky.app: https://bsky.app/profile/mattiasvinberg.bsky.social
 ---
