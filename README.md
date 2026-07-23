@@ -1,7 +1,7 @@
 # Mattias Vinberg
 ### Tech Consultant • Software Engineering • AI Delivery • DEVOPS
 
-Hej! I help teams build reliable products faster — with clear architecture, clean execution, and measurable outcomes.
+I help teams build reliable products faster — with clear architecture, clean execution, and measurable outcomes.
 
 ---
 
@@ -25,8 +25,6 @@ Hej! I help teams build reliable products faster — with clear architecture, cl
 - **API performance uplift** → faster response times and fewer production issues
 - **Frontend quality lift** → better consistency and smoother feature throughput
 
-> Full case studies with KPIs available on request.
-
 ---
 
 ## Tech (representative)
@@ -41,9 +39,9 @@ Hej! I help teams build reliable products faster — with clear architecture, cl
 
 ## Socials
 - GitHub: https://github.com/vinberg88
-- LinkedIn: *(add link)*
-- X / Twitter: *(add link)*
-- Website: *(add link)*
-- Email: *(add email)*
+- LinkedIn: https://www.linkedin.com/in/mattias-vinberg/
+- X / Twitter: https://x.com/mattiasvinberg
+- YOUTUBE: https://www.youtube.com/@mattiasvinberg
+- Email: mattias@vinberg.pm
 
 ---
