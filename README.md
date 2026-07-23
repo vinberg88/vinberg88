@@ -39,9 +39,12 @@ Hej! I help teams build reliable products faster — with clear architecture, cl
 
 ---
 
-## Contact
+## Socials
 - GitHub: https://github.com/vinberg88
-- LinkedIn: *(lägg till länk)*
+- LinkedIn: *(add link)*
+- X / Twitter: *(add link)*
+- Website: *(add link)*
+- Email: *(add email)*
 
 ---
 
