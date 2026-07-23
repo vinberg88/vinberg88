@@ -1,7 +1,7 @@
 # Mattias Vinberg
 ### Tech Consultant • Software Engineering • AI Delivery • DevOps
 
-I help teams ship reliable products faster — through clear architecture, pragmatic engineering, and measurable outcomes.
+<img width="1500" height="500" alt="1500x500" src="https://github.com/user-attachments/assets/57a6cdd6-5ec3-481e-8b0b-f9dd4cfc8dca" />
 
 ---
 
