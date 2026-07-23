@@ -1,5 +1,5 @@
-# Vincent Berg
-### Tech Consultant • Software Engineering • AI Delivery
+# Mattias Vinberg
+### Tech Consultant • Software Engineering • AI Delivery • DEVOPS
 
 Hej! I help teams build reliable products faster — with clear architecture, clean execution, and measurable outcomes.
 
@@ -47,6 +47,3 @@ Hej! I help teams build reliable products faster — with clear architecture, cl
 - Email: *(add email)*
 
 ---
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=vinberg88&show_icons=true&theme=default&hide_border=true)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vinberg88&layout=compact&theme=default&hide_border=true)
