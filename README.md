@@ -100,7 +100,7 @@ I thrive in roles where I can combine:
 <p>
 
 Blanket for ANDROID 2026 - Listen to different sounds and Relax for ANDROID - My APP for blanket under work.
-TEST APP HERE. IT WILL BE BETTER BUT FOR NOW SO WE CAN START WORK ON BLANKET FOR ANDROID.
+TEST APP HERE. IT WILL BE BETTER BUT FOR NOW SO WE CAN START WORK ON BLANKET FOR ANDROID VIA GOOGEL PLAY...
 
 <a href="https://play.google.com/apps/test/space.manus.blanket.android.t20260402202534/10000"><img width="200" alt="Download via PlayStore" src="https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg"/></a>
 
