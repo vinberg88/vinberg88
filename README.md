@@ -102,8 +102,8 @@ I thrive in roles where I can combine:
 Blanket for ANDROID 2026 - Listen to different sounds and Relax for ANDROID - My APP for blanket under work.
 TEST APP HERE. IT WILL BE BETTER BUT FOR NOW SO WE CAN START WORK ON BLANKET FOR ANDROID VIA GOOGEL PLAY...
 
-<a href="https://play.google.com/apps/test/space.manus.blanket.android.t20260402202534/10000"><img width="200" alt="Download via PlayStore" src="https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg"/></a>
+<a href="https://play.google.com/store/apps/details?id=com.vinberg88.blanket&pcampaignid=web_share"><img width="200" alt="Download via PlayStore" src="https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg"/></a>
 
-<a href="https://play.google.com/apps/test/space.manus.blanket.android.t20260402202534/10000"><img width="200" height="200" alt="Utan titel" src="https://github.com/user-attachments/assets/6b092127-cd8a-4020-92a6-622d0bdabb13" />
+<a href="https://play.google.com/store/apps/details?id=com.vinberg88.blanket&pcampaignid=web_share"><img width="200" height="200" alt="Utan titel" src="https://github.com/user-attachments/assets/6b092127-cd8a-4020-92a6-622d0bdabb13" />
 
 <p>
