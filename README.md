@@ -9,6 +9,8 @@ Rebulding WSL project so all Linux distros will have there own repo
 
 Starting to user POP_OS 24.04: https://github.com/vinberg88/pop-os-wsl
 
+---
+
 ## About me
 I’m a Sweden-based tech consultant working at the intersection of software engineering, delivery leadership, and practical AI adoption.  
 I support companies from strategy to execution: clarifying technical direction, improving team flow, and turning complex initiatives into working outcomes.
