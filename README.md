@@ -1,4 +1,4 @@
-# Mattias Vinberg - 2026 - COMPUTERS ARE MY LIFE LINE - Have a god day folks!
+# Mattias Vinberg - 2026 - COMPUTERS ARE MY LIFE LINE - Have a god day!
 
 ### Tech Consultant • Software Engineering • AI Delivery • DevOps • WSL • Node.JS • Java • Android apps • Ios apps • Windows app to store 
 
