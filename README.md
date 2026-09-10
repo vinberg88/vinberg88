@@ -1,6 +1,6 @@
 # Mattias Vinberg - CODE ARE LIFE - 2026 - Stockholm
 
-### Tech Consultant • Software Engineering • AI Delivery • DevOps • WSL • Node.JS • Java • Android apps • Ios apps • Windows app to store 
+### Tech Consultant • Software Engineering • AI Delivery • DevOps • WSL • Node.JS • Java • Android apps for GOOGLE PLAY • Build Windows apps for Windows store 
 
 <img width="1500" height="500" alt="1500x500" src="https://github.com/user-attachments/assets/57a6cdd6-5ec3-481e-8b0b-f9dd4cfc8dca" />
 
