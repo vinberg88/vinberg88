@@ -1,11 +1,12 @@
-# Mattias Vinberg - 2026 
-### Tech Consultant • Software Engineering • AI Delivery • DevOps • WSL • Node.JS • Java
+# Mattias Vinberg - 2026 - COMPUTERS ARE MY LIFE LINE - Have a god day folks!
+
+### Tech Consultant • Software Engineering • AI Delivery • DevOps • WSL • Node.JS • Java • Android apps • Ios apps • Windows app to store 
 
 <img width="1500" height="500" alt="1500x500" src="https://github.com/user-attachments/assets/57a6cdd6-5ec3-481e-8b0b-f9dd4cfc8dca" />
 
 ---
 
-NEWS FOR WSL. Will build so all WSL image have there own WSL page. Thie will take some time =)
+NEWS FOR WSL. Will build so all WSL image have there own WSL page. This will take some time =)
 
 Rebulding WSL project so all Linux distros will have there own repo via GitHUB and desktop is installd - EASY SETUP.
 
@@ -22,6 +23,8 @@ OLD PAGE FOR WSL - https://github.com/vinberg88/opensuse
 Watch Movies from YouTUBE - https://www.youtube.com/@mattiasvinberg
 
 Look about WSL - https://vinberg88.github.io
+
+<img width="700" height="800" alt="WSL-HOS" src="https://github.com/user-attachments/assets/f08017e5-051b-482c-865c-8eca7719d623" />
 
 ---
 
