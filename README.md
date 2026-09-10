@@ -24,7 +24,7 @@ Watch Movies from YouTUBE - https://www.youtube.com/@mattiasvinberg
 
 Look about WSL - https://vinberg88.github.io
 
-<img width="700" height="800" alt="WSL-HOS" src="https://github.com/user-attachments/assets/f08017e5-051b-482c-865c-8eca7719d623" />
+<img width="900" height="900" alt="WSL-HOS" src="https://github.com/user-attachments/assets/f08017e5-051b-482c-865c-8eca7719d623" />
 
 ---
 
