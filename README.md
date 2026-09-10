@@ -1,4 +1,4 @@
-# Mattias Vinberg - CODE ARE LIFE - Have a god day - 2026 - Stockholm
+# Mattias Vinberg - CODE ARE LIFE - 2026 - Stockholm
 
 ### Tech Consultant • Software Engineering • AI Delivery • DevOps • WSL • Node.JS • Java • Android apps • Ios apps • Windows app to store 
 
