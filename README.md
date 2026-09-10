@@ -18,11 +18,13 @@ CachyOS for WSL - https://github.com/vinberg88/cachyos
 
 Manjaro for WSL - https://github.com/vinberg88/manjaro
 
+Ubuntu for WSL - https://github.com/vinberg88/ubuntu
+
 OLD PAGE FOR WSL - https://github.com/vinberg88/opensuse
 
 Watch Movies from YouTUBE - https://www.youtube.com/@mattiasvinberg
 
-Look about WSL - https://vinberg88.github.io
+Information about WSL - https://vinberg88.github.io
 
 <img width="900" height="900" alt="WSL-HOS" src="https://github.com/user-attachments/assets/f08017e5-051b-482c-865c-8eca7719d623" />
 
