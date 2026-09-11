@@ -8,7 +8,9 @@
 
 NEWS FOR WSL. Will build so all WSL image have there own WSL page. This will take some time =)
 
-Rebulding WSL project so all Linux distros will have there own repo via GitHUB and desktop is installd - EASY SETUP.
+Rebulding WSL project so all Linux distros will have there own repo via GitHUB and desktop is installd - EASY SETUP AND USE.
+
+Debian 13 and Debian 14 for WSL: https://github.com/vinberg88/debian
 
 POP!_OS 24.04 LTS for WSL: https://github.com/vinberg88/pop-os-wsl
 
@@ -22,7 +24,7 @@ Ubuntu for WSL - https://github.com/vinberg88/ubuntu
 
 OLD PAGE FOR WSL - https://github.com/vinberg88/opensuse
 
-Watch Movies from YouTUBE - https://www.youtube.com/@mattiasvinberg
+Watch Movies from YouTUBE - WSL - https://www.youtube.com/@mattiasvinberg
 
 Information about WSL - https://vinberg88.github.io
 
