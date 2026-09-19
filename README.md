@@ -10,7 +10,9 @@ NEWS FOR WSL. Will build so all WSL image have there own WSL page. This will tak
 
 Rebulding WSL project so all Linux distros will have there own repo via GitHUB and desktop is installd - EASY SETUP AND USE.
 
-NEW Dist - ALmalinux 10 for WSL - https://github.com/vinberg88/almalinux
+New - REDHAT AND KDE, GNOME AND MATE - https://github.com/vinberg88/redhat
+
+Lmalinux 10 for WSL - https://github.com/vinberg88/almalinux
 
 Debian 13 and Debian 14 for WSL - https://github.com/vinberg88/debian
 
