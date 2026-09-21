@@ -32,7 +32,10 @@ Watch Movies from YouTUBE - WSL - https://www.youtube.com/@mattiasvinberg
 
 Information about WSL - https://vinberg88.github.io
 
-<img width="900" height="900" alt="WSL-HOS" src="https://github.com/user-attachments/assets/f08017e5-051b-482c-865c-8eca7719d623" />
+<p align="center">
+<a href="https://github.com/vinberg88/ubuntu/releases/">
+<img width="480" height="156" alt="canonical" src="https://github.com/user-attachments/assets/70098060-a4e3-457d-a057-c35f7a7d537b" />
+</p>
 
 ---
 
