@@ -41,8 +41,8 @@ Information about WSL - https://vinberg88.github.io
 <a href="https://github.com/vinberg88/debian">
 <img width="480" height="160" alt="debian14" src="https://github.com/user-attachments/assets/9b05632b-e1a6-4b66-9c52-864ed3d5d2b9" />
 </p>
----
 
+---
 ## About me
 I’m a Sweden-based tech consultant working at the intersection of software engineering, delivery leadership, and practical AI adoption.  
 I support companies from strategy to execution: clarifying technical direction, improving team flow, and turning complex initiatives into working outcomes.
