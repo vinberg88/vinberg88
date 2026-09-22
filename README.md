@@ -37,6 +37,10 @@ Information about WSL - https://vinberg88.github.io
 <img width="480" height="156" alt="canonical" src="https://github.com/user-attachments/assets/70098060-a4e3-457d-a057-c35f7a7d537b" />
 </p>
 
+<p align="center">
+<a href="https://github.com/vinberg88/ubuntu/">
+<img width="480" height="160" alt="debian14" src="https://github.com/user-attachments/assets/9b05632b-e1a6-4b66-9c52-864ed3d5d2b9" />
+</p>
 ---
 
 ## About me
