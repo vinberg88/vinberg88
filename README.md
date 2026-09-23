@@ -12,8 +12,6 @@ Rebulding WSL project so all Linux distros will have there own repo via GitHUB a
 
 New - REDHAT AND KDE, GNOME AND MATE - https://github.com/vinberg88/redhat
 
-Almalinux for WSL - https://github.com/vinberg88/almalinux
-
 POP!_OS 24.04 LTS for WSL - https://github.com/vinberg88/pop-os-wsl
 
 OLD PAGE FOR WSL - https://github.com/vinberg88/opensuse
@@ -21,6 +19,11 @@ OLD PAGE FOR WSL - https://github.com/vinberg88/opensuse
 Watch Movies from YouTUBE - WSL - https://www.youtube.com/@mattiasvinberg
 
 Information about WSL - https://vinberg88.github.io
+
+<p align="center">
+<a href="https://github.com/vinberg88/almalinux">
+<img width="480" height="156" alt="parrot" src="https://www.xhamster.nu/almalinux.png" />
+</p>
 
 <p align="center">
 <a href="https://github.com/vinberg88/ParrotOS">
@@ -47,11 +50,17 @@ Information about WSL - https://vinberg88.github.io
 <img width="480" height="160" alt="debian14" src="https://github.com/user-attachments/assets/9b05632b-e1a6-4b66-9c52-864ed3d5d2b9" />
 </p>
 
+Comming SONE... 
+
 <p align="center">
 <a href="https://github.com/vinberg88/opensuse">
 <img width="480" height="160" alt="fedora" src="https://www.xhamster.nu/fedora.png" />
 </p>
 
+<p align="center">
+<a href="https://github.com/vinberg88/opensuse">
+<img width="480" height="160" alt="fedora" src="https://www.xhamster.nu/opensuse.png" />
+</p>
 ---
 ## About me
 I’m a Sweden-based tech consultant working at the intersection of software engineering, delivery leadership, and practical AI adoption.  
