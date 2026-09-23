@@ -47,6 +47,7 @@ Information about WSL - https://vinberg88.github.io
 <img width="480" height="160" alt="fedora" src="https://github.com/user-attachments/assets/45863ee7-fc75-4abf-8097-961513754d60" />
 </p>
 
+<img width="635" height="379" alt="fedora" src="https://github.com/user-attachments/assets/8566984b-5fe7-4fc6-9138-62a885ea2424" />
 
 
 ---
