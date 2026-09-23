@@ -6,11 +6,9 @@
 
 ---
 
-NEWS FOR WSL. Will build so all WSL image have there own WSL page. This will take some time =)
+<center>NEWS FOR WSL. Will build so all WSL image have there own WSL page. This will take some time =)</center>
 
-Rebulding WSL project so all Linux distros will have there own repo via GitHUB and desktop is installd - EASY SETUP AND USE.
-
-New - REDHAT AND KDE, GNOME AND MATE - https://github.com/vinberg88/redhat
+Rebulding WSL -  Project so all Linux distros will have there own repo via GitHUB page - WSL - EASY SETUP.
 
 POP!_OS 24.04 LTS for WSL - https://github.com/vinberg88/pop-os-wsl
 
@@ -32,6 +30,11 @@ POP!_OS 24.04 LTS for WSL - https://github.com/vinberg88/pop-os-wsl
 <p align="center">
 <a href="https://github.com/vinberg88/manjaro">
 <img width="480" height="160" alt="fedora" src="https://www.xhamster.nu/manjaro.png" />
+</p>
+
+<p align="center">
+<a href="https://github.com/vinberg88/redhat">
+<img width="480" height="160" alt="debian14" src="https://www.xhamster.nu/redhat.png" />
 </p>
 
 <p align="center">
