@@ -34,7 +34,7 @@ Information about WSL - https://vinberg88.github.io
 
 <p align="center">
 <a href="https://github.com/vinberg88/ParrotOS">
-<img width="584" height="183" alt="parrot" src="https://github.com/user-attachments/assets/bc5a2b54-4cdb-4c11-ad34-111d4520487e" />
+<img width="584" height="183" alt="parrot" src="https://www.xhamster.nu/parrot.png" />
 </p>
 
 <p align="center">
