@@ -33,6 +33,11 @@ Watch Movies from YouTUBE - WSL - https://www.youtube.com/@mattiasvinberg
 Information about WSL - https://vinberg88.github.io
 
 <p align="center">
+<a href="https://github.com/vinberg88/ParrotOS">
+<img width="584" height="183" alt="parrot" src="https://github.com/user-attachments/assets/bc5a2b54-4cdb-4c11-ad34-111d4520487e" />
+</p>
+
+<p align="center">
 <a href="https://github.com/vinberg88/ubuntu/">
 <img width="480" height="156" alt="canonical" src="https://github.com/user-attachments/assets/70098060-a4e3-457d-a057-c35f7a7d537b" />
 </p>
