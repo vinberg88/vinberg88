@@ -50,7 +50,7 @@ Information about WSL - https://vinberg88.github.io
 <img width="480" height="160" alt="debian14" src="https://github.com/user-attachments/assets/9b05632b-e1a6-4b66-9c52-864ed3d5d2b9" />
 </p>
 
-Comming SONE... 
+Comming SONE... Have to setup desktops via WSL and Windwos 11 and LINUX - 2026
 
 <p align="center">
 <a href="https://github.com/vinberg88/opensuse">
@@ -61,6 +61,12 @@ Comming SONE...
 <a href="https://github.com/vinberg88/opensuse">
 <img width="480" height="160" alt="fedora" src="https://www.xhamster.nu/opensuse.png" />
 </p>
+
+<p align="center">
+<a href="https://github.com/vinberg88/opensuse">
+<img width="480" height="160" alt="fedora" src="https://www.xhamster.nu/acrh.png" />
+</p>
+  
 ---
 ## About me
 I’m a Sweden-based tech consultant working at the intersection of software engineering, delivery leadership, and practical AI adoption.  
