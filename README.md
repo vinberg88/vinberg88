@@ -14,12 +14,6 @@ New - REDHAT AND KDE, GNOME AND MATE - https://github.com/vinberg88/redhat
 
 POP!_OS 24.04 LTS for WSL - https://github.com/vinberg88/pop-os-wsl
 
-OLD PAGE FOR WSL - https://github.com/vinberg88/opensuse
-
-Watch Movies from YouTUBE - WSL - https://www.youtube.com/@mattiasvinberg
-
-Information about WSL - https://vinberg88.github.io
-
 <p align="center">
 <a href="https://github.com/vinberg88/almalinux">
 <img width="480" height="156" alt="parrot" src="https://www.xhamster.nu/almalinux.png" />
@@ -66,7 +60,13 @@ Comming SONE... Have to setup desktops via WSL and Windwos 11 and LINUX - 2026
 <a href="https://github.com/vinberg88/opensuse">
 <img width="480" height="160" alt="fedora" src="https://www.xhamster.nu/acrh.png" />
 </p>
-  
+
+OLD PAGE FOR WSL - https://github.com/vinberg88/opensuse
+
+Watch Movies from YouTUBE - WSL - https://www.youtube.com/@mattiasvinberg
+
+Information about WSL - https://vinberg88.github.io
+
 ---
 ## About me
 I’m a Sweden-based tech consultant working at the intersection of software engineering, delivery leadership, and practical AI adoption.  
