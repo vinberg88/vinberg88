@@ -6,11 +6,9 @@
 
 ---
 
-<center>NEWS FOR WSL. Will build so all WSL image have there own WSL page. This will take some time =)</center>
-
-Rebulding WSL -  Project so all Linux distros will have there own repo via GitHUB page - WSL - EASY SETUP.
-
-POP!_OS 24.04 LTS for WSL - https://github.com/vinberg88/pop-os-wsl
+<p align="center">
+NEWS FOR WSL - 2026 - Will build so all WSL Linux distros have there own GitHUB page. This will take some time - Rebulding WSL for desktops - EASY SETUP.
+</p>
 
 <p align="center">
 <a href="https://github.com/vinberg88/almalinux">
@@ -30,6 +28,11 @@ POP!_OS 24.04 LTS for WSL - https://github.com/vinberg88/pop-os-wsl
 <p align="center">
 <a href="https://github.com/vinberg88/manjaro">
 <img width="480" height="160" alt="fedora" src="https://www.xhamster.nu/manjaro.png" />
+</p>
+
+<p align="center">
+<a href="https://github.com/vinberg88/pop-os-wsl">
+<img width="480" height="160" alt="fedora" src="https://www.xhamster.nu/popos.png" />
 </p>
 
 <p align="center">
