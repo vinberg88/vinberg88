@@ -70,6 +70,10 @@ Comming SONE... Have to setup desktops via WSL and Windwos 11 and LINUX - 2026
 OLD PAGE FOR WSL - https://github.com/vinberg88/opensuse
 
 Watch Movies from YouTUBE - WSL - https://www.youtube.com/@mattiasvinberg
+<p align="center">
+<a href="https://www.youtube.com/@mattiasvinberg">
+<img width="480" height="160" alt="Youtube" src="https://github.com/user-attachments/assets/9f640201-2820-4b89-8132-c41d2b03dea6" />
+</p>
 
 Information about WSL - https://vinberg88.github.io
 
