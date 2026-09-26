@@ -89,9 +89,12 @@ Information about WSL - https://vinberg88.github.io
 </p>
 
 ---
-## About me
+## About me - Mattias Vinberg
 I’m a Sweden-based tech consultant working at the intersection of software engineering, delivery leadership, and practical AI adoption.  
 I support companies from strategy to execution: clarifying technical direction, improving team flow, and turning complex initiatives into working outcomes.
+
+I work on Github Projects, Googel Play and Microsoft store APPS and other stuff =)
+
 
 I thrive in roles where I can combine:
 - hands-on engineering
