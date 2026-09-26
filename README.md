@@ -2,7 +2,12 @@
 
 ### Tech Consultant • Software Engineering • AI Delivery • DevOps • WSL • Node.JS • Java • Android apps for GOOGLE PLAY • Build Windows apps for Windows store 
 
+OLD PAGE FOR WSL - https://github.com/vinberg88/opensuse
+
+<p align="center">
+<a href="https://github.com/vinberg88/opensuse">
 <img width="1500" height="500" alt="1500x500" src="https://github.com/user-attachments/assets/57a6cdd6-5ec3-481e-8b0b-f9dd4cfc8dca" />
+</p>
 
 ---
 
@@ -66,8 +71,6 @@ Comming SONE... Have to setup desktops via WSL and Windwos 11 and LINUX - 2026
 <a href="https://github.com/vinberg88/opensuse">
 <img width="480" height="160" alt="fedora" src="https://www.xhamster.nu/acrh.png" />
 </p>
-
-OLD PAGE FOR WSL - https://github.com/vinberg88/opensuse
 
 Watch Movies from YouTUBE - WSL - https://www.youtube.com/@mattiasvinberg
 <p align="center">
