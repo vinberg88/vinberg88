@@ -16,6 +16,11 @@ NEWS FOR WSL - 2026 - Will build so all WSL Linux distros have there own GitHUB 
 </p>
 
 <p align="center">
+<a href="https://github.com/vinberg88/suse">
+<img width="480" height="160" alt="Opensuse" src="https://www.xhamster.nu/opensuse.png" />
+</p>
+
+<p align="center">
 <a href="https://github.com/vinberg88/almalinux">
 <img width="480" height="156" alt="parrot" src="https://www.xhamster.nu/almalinux.png" />
 </p>
@@ -62,11 +67,6 @@ Comming SONE... Have to setup desktops via WSL and Windwos 11 and LINUX - 2026
 <p align="center">
 <a href="https://github.com/vinberg88/opensuse">
 <img width="480" height="160" alt="fedora" src="https://www.xhamster.nu/fedora.png" />
-</p>
-
-<p align="center">
-<a href="https://github.com/vinberg88/opensuse">
-<img width="480" height="160" alt="fedora" src="https://www.xhamster.nu/opensuse.png" />
 </p>
 
 <p align="center">
