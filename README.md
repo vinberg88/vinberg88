@@ -20,9 +20,6 @@ NEWS FOR WSL - 2026 - Will build so all WSL Linux distros have there own GitHUB 
 <img width="480" height="160" alt="fedora" src="https://github.com/user-attachments/assets/712a7ecb-4793-4ebd-ae3c-34660ba0bae7" />
 </p>
 
-<img width="518" height="178" alt="arch" src="https://github.com/user-attachments/assets/712a7ecb-4793-4ebd-ae3c-34660ba0bae7" />
-
-
 <p align="center">
 <a href="https://github.com/vinberg88/suse">
 <img width="480" height="160" alt="Opensuse" src="https://www.xhamster.nu/opensuse.png" />
