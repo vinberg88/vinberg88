@@ -2,6 +2,8 @@
 
 ### Tech Consultant • Software Engineering • AI Delivery • DevOps • WSL • Node.JS • Java • Android apps for GOOGLE PLAY • Build Windows apps for Windows store 
 
+This script for UBUNTU 24.04 will make any desktop to start for WSL [Start scirpt for ubuntu 24.04](https://github.com/vinberg88/ubuntu24.04-wsl2-systemd-script)
+
 OLD PAGE FOR WSL - https://github.com/vinberg88/opensuse
 
 <p align="center">
