@@ -18,6 +18,11 @@ NEWS FOR WSL - 2026 - Will build so all WSL Linux distros have there own GitHUB 
 </p>
 
 <p align="center">
+<a href="https://github.com/vinberg88/openEuler">
+<img width="480" height="160" alt="OpenEuler" src="https://github.com/user-attachments/assets/574e3328-1673-412c-9666-eb930fb43943" />
+</p>
+
+<p align="center">
 <a href="https://github.com/vinberg88/EndeavourOS">
 <img width="480" height="160" alt="ende-banner" src="https://github.com/user-attachments/assets/66449060-2aea-480f-ab2e-bc2ab8c368a5" />
 </p>
