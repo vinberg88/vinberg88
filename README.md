@@ -17,7 +17,7 @@ OLD PAGE FOR WSL - https://github.com/vinberg88/opensuse
 NEWS FOR WSL - 2026 - Will build so all WSL Linux distros have there own GitHUB page. This will take some time - Rebulding WSL for desktops - EASY SETUP.
 </p>
 
-Next setup for WSL and Linux on windows 11 . Comming SONE - 2026
+Next setup for WSL and Linux on windows 11 are Centos - Comming SONE - Start on KDE for Centos - 2026
 
 <p align="center">
 <a href="https://www.centos.org">
