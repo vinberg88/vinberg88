@@ -23,7 +23,7 @@ Next setup for WSL and Linux on windows 11 . Comming SONE - 2026
 
 <p align="center">
 <a href="https://www.centos.org">
-<img width="582" height="214" alt="centos" src="https://github.com/user-attachments/assets/ec42a616-d76e-49af-955c-474cd07aa0c9" />
+<img width="480" height="160" alt="centos" src="https://github.com/user-attachments/assets/ec42a616-d76e-49af-955c-474cd07aa0c9" />
 </p>
 
 ---
