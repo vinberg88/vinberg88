@@ -20,7 +20,7 @@ NEWS FOR WSL - Will build so all WSL Linux distros have there own GitHUB. This w
 Next setup for WSL and Linux on windows 11 are Centos - Comming SONE - Start on KDE for Centos - 2026
 
 <p align="center">
-<a href="https://www.centos.org">
+<a href="https://github.com/vinberg88/centos">
 <img width="480" height="160" alt="centos" src="https://github.com/user-attachments/assets/ec42a616-d76e-49af-955c-474cd07aa0c9" />
 </p>
 
