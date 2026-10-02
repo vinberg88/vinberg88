@@ -17,16 +17,12 @@ OLD PAGE FOR WSL - https://github.com/vinberg88/opensuse
 NEWS FOR WSL - 2026 - Will build so all WSL Linux distros have there own GitHUB page. This will take some time - Rebulding WSL for desktops - EASY SETUP.
 </p>
 
----
-
 Next setup for WSL and Linux on windows 11 . Comming SONE - 2026
 
 <p align="center">
 <a href="https://www.centos.org">
 <img width="480" height="160" alt="centos" src="https://github.com/user-attachments/assets/ec42a616-d76e-49af-955c-474cd07aa0c9" />
 </p>
-
----
 
 <p align="center">
 <a href="https://github.com/vinberg88/EndeavourOS">
