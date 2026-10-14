@@ -17,16 +17,18 @@ Working on Alpine Linux and KDE 6 for WSL - Comming SONE!
 
 <p align="center">
 <a href="https://github.com/vinberg88/alpine">
-<img width="480" height="160" alt="alpine" src="https://github.com/user-attachments/assets/2972b49c-6a0d-42a2-bc16-41d0e75e32ac" />
+<img width="480" height="160" alt="Alpine Linux" src="https://github.com/user-attachments/assets/2972b49c-6a0d-42a2-bc16-41d0e75e32ac" />
 </p>
 
 ---
 
 <p align="center">
 NEWS FOR WSL - Will build so all WSL Linux distros have there own GitHUB. This will take some time - Building WSL page for desktops.
-</p>
+
 
 Next setup for WSL and Linux on windows 11 are Centos - Comming SONE - Start on KDE for Centos - 2026
+</p>
+
 
 <p align="center">
 <a href="https://github.com/vinberg88/centos">
@@ -35,7 +37,7 @@ Next setup for WSL and Linux on windows 11 are Centos - Comming SONE - Start on 
 
 <p align="center">
 <a href="https://github.com/vinberg88/EndeavourOS">
-<img width="480" height="160" alt="ende-banner" src="https://github.com/user-attachments/assets/66449060-2aea-480f-ab2e-bc2ab8c368a5" />
+<img width="480" height="160" alt="EndeavourOS" src="https://github.com/user-attachments/assets/66449060-2aea-480f-ab2e-bc2ab8c368a5" />
 </p>
 
 <p align="center">
