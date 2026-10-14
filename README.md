@@ -13,6 +13,15 @@ OLD PAGE FOR WSL - https://github.com/vinberg88/opensuse
 
 ---
 
+Working on Alpine Linux and KDE 6 for WSL - Comming SONE!
+
+<p align="center">
+<a href="https://github.com/vinberg88/alpine">
+<img width="480" height="160" alt="alpine" src="https://github.com/user-attachments/assets/2972b49c-6a0d-42a2-bc16-41d0e75e32ac" />
+</p>
+
+---
+
 <p align="center">
 NEWS FOR WSL - Will build so all WSL Linux distros have there own GitHUB. This will take some time - Building WSL page for desktops.
 </p>
