@@ -1,147 +1,221 @@
-<div align="center">
+# Mattias Vinberg - CODE ARE LIFE - 2026 - Stockholm
 
-# 🐧 VINBERG LINUX LAB
+### Tech Consultant • Software Engineering • AI Delivery • DevOps • WSL • Node.JS • Java • Android apps for GOOGLE PLAY • Build Windows apps for Windows Store and alot more!
 
-### Full Linux desktops on Windows
+This script for UBUNTU 24.04 will make any desktop to start for WSL [Start scirpt for ubuntu 24.04](https://github.com/vinberg88/ubuntu24.04-wsl2-systemd-script)
 
-**Practical WSL builds, complete desktop experiments, launchers and diagnostics — built and tested in Stockholm.**
+OLD PAGE FOR WSL - https://github.com/vinberg88/opensuse
 
-<img src="https://img.shields.io/badge/Windows_11-WSL_2-0078D4?style=for-the-badge&logo=windows11&logoColor=white" alt="Windows 11 and WSL 2" />
-<img src="https://img.shields.io/badge/Linux-Desktop_Lab-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux Desktop Lab" />
-<img src="https://img.shields.io/badge/Stockholm-Sweden-006AA7?style=for-the-badge" alt="Stockholm, Sweden" />
-<img src="https://img.shields.io/badge/2026-CODE_IS_LIFE-6C5CE7?style=for-the-badge" alt="Code is life" />
-
-<br /><br />
-
-> **Pick a distro. Launch a desktop. Break the boundary.**
-
-[Featured builds](#-featured-builds) · [Desktop gallery](#-desktop-gallery) · [All Linux projects](#-pick-your-linux) · [About Mattias](#-about-mattias)
-
-</div>
+<p align="center">
+<a href="https://github.com/vinberg88/opensuse">
+<img width="1500" height="500" alt="1500x500" src="https://github.com/user-attachments/assets/57a6cdd6-5ec3-481e-8b0b-f9dd4cfc8dca" />
+</p>
 
 ---
 
-## 👋 Welcome to the lab
+Working on Alpine Linux and KDE 6 for WSL - Comming SONE!
 
-I am **Mattias Vinberg**, a tech consultant and software builder from Stockholm, Sweden.
-
-This is my Linux-on-Windows workshop: reproducible WSL distributions, real desktop sessions, practical installers and experiments that go beyond a terminal prompt. I like projects that can be installed, started, diagnosed and used for real.
-
-What you will find here:
-
-- complete Linux desktop experiments for WSL 2
-- clean installation guides and repeatable launchers
-- health checks, logs and recovery commands
-- screenshots and videos from actual setups
-- honest notes about what is tested, experimental or still coming next
-
-## 🚀 Featured builds
-
-| Project | Experience | Display path | Project status |
-| :--- | :--- | :--- | :--- |
-| **[Fedora Linux on WSL](https://github.com/vinberg88/fedora)** | Fedora 44 with KDE Plasma 6 and a managed <code>kde6-x410</code> launcher | X410/X11 with WSLg audio | Desktop startup confirmed on my setup |
-| **[Ubuntu 26.04 Budgie](https://github.com/vinberg88/ubuntu26.04-wsl2-budgie)** | Budgie 10.10 with start, stop, restart, sizing and diagnostics | WSLg; X410 is not required | Managed desktop launcher |
-| **[openEuler Desktop Collection](https://github.com/vinberg88/openEuler)** | Kiran, GNOME and a growing desktop collection for openEuler | Kiran tested through X410 | Community desktop project |
-| **[EndeavourOS for WSL](https://github.com/vinberg88/EndeavourOS)** | Arch-based WSL package with a KDE Plasma 6 guide | WSL 2 desktop experiment | Community build and releases |
-| **[Pop!_OS 24.04 WSL Base](https://github.com/vinberg88/pop-os-wsl)** | Clean systemd-enabled base with OOBE and <code>pop-wsl doctor</code> | WSLg-ready base | Release 0.1.1 |
-
-## 🖥️ Desktop gallery
-
-<table>
-  <tr>
-    <td width="50%" align="center">
-      <a href="https://github.com/vinberg88/fedora">
-        <img src="https://github.com/user-attachments/assets/14f4c7d6-95ea-4865-9d81-c83963399f5e" alt="Fedora 44 with KDE Plasma 6 running through WSL" width="100%" />
-      </a>
-      <br />
-      <strong>Fedora 44 + KDE Plasma 6</strong><br />
-      A full X11 desktop with launcher, diagnostics and a Windows shortcut.
-    </td>
-    <td width="50%" align="center">
-      <a href="https://github.com/vinberg88/EndeavourOS">
-        <img src="https://github.com/user-attachments/assets/3c31e798-1325-4f64-9aef-f44e0645a00b" alt="EndeavourOS with KDE Plasma 6 running through WSL" width="100%" />
-      </a>
-      <br />
-      <strong>EndeavourOS + KDE Plasma 6</strong><br />
-      An Arch-based WSL journey with a complete desktop guide.
-    </td>
-  </tr>
-</table>
-
-## 🧪 How I validate a WSL project
-
-A process staying alive is not enough. The useful question is whether the result can actually be installed and used.
-
-<div align="center">
-
-**Clean install** → **First-run setup** → **systemd** → **Package test** → **Doctor command** → **Visible desktop** → **Cold restart**
-
-</div>
-
-Each repository documents its own scope and requirements. Some desktop experiments use WSLg, while others use X11 and X410. Projects that depend on third-party software say so directly.
-
-## 🌌 Pick your Linux
-
-| Debian family | Arch family | RPM and enterprise family |
-| :--- | :--- | :--- |
-| [Ubuntu](https://github.com/vinberg88/ubuntu) | [Arch Linux](https://github.com/vinberg88/arch) | [Fedora](https://github.com/vinberg88/fedora) |
-| [Ubuntu 26.04 Budgie](https://github.com/vinberg88/ubuntu26.04-wsl2-budgie) | [EndeavourOS](https://github.com/vinberg88/EndeavourOS) | [openEuler](https://github.com/vinberg88/openEuler) |
-| [Debian](https://github.com/vinberg88/debian) | [CachyOS](https://github.com/vinberg88/cachyos) | [AlmaLinux](https://github.com/vinberg88/almalinux) |
-| [Pop!_OS](https://github.com/vinberg88/pop-os-wsl) | [Manjaro](https://github.com/vinberg88/manjaro) | [Red Hat](https://github.com/vinberg88/redhat) |
-| [ParrotOS](https://github.com/vinberg88/ParrotOS) | [Alpine](https://github.com/vinberg88/alpine) | [CentOS](https://github.com/vinberg88/centos) |
-|  |  | [openSUSE](https://github.com/vinberg88/opensuse) · [SUSE](https://github.com/vinberg88/suse) |
-
-## 🌉 Next major project: WayBridge
-
-**WayBridge** is the next step: one polished Windows application for setting up, launching and managing Linux desktop sessions on WSL.
-
-The direction is simple:
-
-- one real Windows application
-- clear first-run setup
-- Start, Stop and Restart controls
-- useful diagnostics and recovery
-- accessibility and documentation
-- Windows/MSIX packaging with Microsoft Store-quality finish
-
-The goal is not just to start a desktop. The goal is to make the complete experience feel reliable and finished.
-
-## 🛠️ Beyond WSL
-
-I also build Windows, Android and web projects:
-
-- **[Blanket for Android](https://github.com/vinberg88/blanket-android)** — relaxing ambient sounds for Android
-- **[TubeDesk for Windows](https://github.com/vinberg88/youtube-desktop-win)** — a desktop YouTube experience
-- **[WSL information site](https://vinberg88.github.io)** — guides and project links
-- **[YouTube](https://www.youtube.com/@mattiasvinberg)** — Linux and WSL walkthroughs
-
-## 👨‍💻 About Mattias
-
-I work at the intersection of software engineering, architecture, DevOps, delivery leadership and practical AI adoption. I enjoy taking an idea all the way to a working result — with clear documentation, repeatable setup and enough diagnostics to understand what happens when something goes wrong.
-
-My working principles:
-
-- **Outcome first** — build something people can actually use
-- **Pragmatic engineering** — balance speed, quality and maintainability
-- **Visible proof** — test the real interface, not only the process
-- **Honest status** — separate verified results from experiments and roadmaps
-- **Keep learning** — Linux, Windows and open source are more fun when boundaries are crossed =)
-
-## 🤝 Connect
-
-[![GitHub](https://img.shields.io/badge/GitHub-vinberg88-181717?style=for-the-badge&logo=github)](https://github.com/vinberg88)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mattias_Vinberg-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mattias-vinberg/)
-[![YouTube](https://img.shields.io/badge/YouTube-Mattias_Vinberg-FF0000?style=for-the-badge&logo=youtube)](https://www.youtube.com/@mattiasvinberg)
-[![Bluesky](https://img.shields.io/badge/Bluesky-mattiasvinberg-0285FF?style=for-the-badge&logo=bluesky)](https://bsky.app/profile/mattiasvinberg.bsky.social)
-
-📧 **mattias@vinberg.pm**
+<p align="center">
+<a href="https://github.com/vinberg88/alpine">
+<img width="480" height="160" alt="Alpine Linux" src="https://github.com/user-attachments/assets/2972b49c-6a0d-42a2-bc16-41d0e75e32ac" />
+</p>
 
 ---
 
-> These are personal/community projects unless a repository explicitly states otherwise. Linux distribution names, desktop names and product trademarks belong to their respective owners.
+<p align="center">
+NEWS FOR WSL - Will build so all WSL Linux distros have there own GitHUB. This will take some time - Building WSL page for desktops.
 
-<div align="center">
 
-### CODE IS LIFE — BUILD, TEST, LEARN, REPEAT 🐧
+Next setup for WSL and Linux on windows 11 are Centos - Comming SONE - Start on KDE for Centos - 2026
+</p>
 
-</div>
+
+<p align="center">
+<a href="https://github.com/vinberg88/centos">
+<img width="480" height="160" alt="centos" src="https://github.com/user-attachments/assets/ec42a616-d76e-49af-955c-474cd07aa0c9" />
+</p>
+
+<p align="center">
+<a href="https://github.com/vinberg88/EndeavourOS">
+<img width="480" height="160" alt="EndeavourOS" src="https://github.com/user-attachments/assets/66449060-2aea-480f-ab2e-bc2ab8c368a5" />
+</p>
+
+<p align="center">
+<a href="https://github.com/vinberg88/arch">
+<img width="480" height="160" alt="fedora" src="https://github.com/user-attachments/assets/712a7ecb-4793-4ebd-ae3c-34660ba0bae7" />
+</p>
+
+<p align="center">
+<a href="https://github.com/vinberg88/suse">
+<img width="480" height="160" alt="Opensuse" src="https://www.xhamster.nu/opensuse.png" />
+</p>
+
+<p align="center">
+<a href="https://github.com/vinberg88/almalinux">
+<img width="480" height="156" alt="parrot" src="https://www.xhamster.nu/almalinux.png" />
+</p>
+
+<p align="center">
+<a href="https://github.com/vinberg88/fedora">
+<img width="480" height="160" alt="fedora" src="https://www.xhamster.nu/fedora.png" />
+</p>
+
+<p align="center">
+<a href="https://github.com/vinberg88/ParrotOS">
+<img width="480" height="156" alt="parrot" src="https://www.xhamster.nu/parrot.png" />
+</p>
+
+<p align="center">
+<a href="https://github.com/vinberg88/ubuntu/">
+<img width="480" height="156" alt="canonical" src="https://github.com/user-attachments/assets/70098060-a4e3-457d-a057-c35f7a7d537b" />
+</p>
+
+<p align="center">
+<a href="https://github.com/vinberg88/manjaro">
+<img width="480" height="160" alt="fedora" src="https://www.xhamster.nu/manjaro.png" />
+</p>
+
+<p align="center">
+<a href="https://github.com/vinberg88/pop-os-wsl">
+<img width="480" height="160" alt="fedora" src="https://www.xhamster.nu/popos.png" />
+</p>
+
+<p align="center">
+<a href="https://github.com/vinberg88/redhat">
+<img width="480" height="160" alt="debian14" src="https://www.xhamster.nu/redhat.png" />
+</p>
+
+<p align="center">
+<a href="https://github.com/vinberg88/cachyos">
+<img width="480" height="160" alt="debian14" src="https://www.xhamster.nu/caxhyOS.png" />
+</p>
+
+<p align="center">
+<a href="https://github.com/vinberg88/debian">
+<img width="480" height="160" alt="debian14" src="https://github.com/user-attachments/assets/9b05632b-e1a6-4b66-9c52-864ed3d5d2b9" />
+</p>
+
+<p align="center">
+<a href="https://github.com/vinberg88/openEuler">
+<img width="480" height="160" alt="OpenEuler" src="https://github.com/user-attachments/assets/574e3328-1673-412c-9666-eb930fb43943" />
+</p>
+
+---
+
+Watch Movies from YouTUBE - WSL - https://www.youtube.com/@mattiasvinberg
+<p align="center">
+<a href="https://www.youtube.com/@mattiasvinberg">
+<img width="480" height="160" alt="Youtube" src="https://github.com/user-attachments/assets/9f640201-2820-4b89-8132-c41d2b03dea6" />
+</p>
+
+Information about WSL - https://vinberg88.github.io
+<p align="center">
+<a href="https://vinberg88.github.io">
+<img width="500" height="160" alt="master" src="https://github.com/user-attachments/assets/2ffbe675-d1a7-44c0-9a9a-51fd386f6074" />
+</p>
+
+---
+## About me - Mattias Vinberg
+I’m a Sweden-based tech consultant working at the intersection of software engineering, delivery leadership, and practical AI adoption. I support companies from strategy to execution: clarifying technical direction, improving team flow, and turning complex initiatives into working outcomes.
+
+I work on Github Projects, Googel Play and Microsoft store APPS and other stuff =)
+
+
+I thrive in roles where I can combine:
+- hands-on engineering
+- architecture and platform thinking
+- cross-functional communication
+- delivery ownership from idea to production
+
+---
+
+## What I do
+- **Architecture Advisory**  
+  Define robust target architectures, decision frameworks, and implementation roadmaps.
+
+- **AI Delivery Acceleration**  
+  Help teams integrate AI into engineering workflows for faster, higher-quality delivery.
+
+- **Interim Tech Lead / Engineering Lead**  
+  Drive execution, remove delivery bottlenecks, and align engineering with business priorities.
+
+- **Platform & Process Improvement**  
+  Improve CI/CD, quality gates, observability, and release confidence.
+
+---
+
+## Focus areas
+- Backend & API reliability
+- Scalable product architecture
+- Developer productivity & CI/CD
+- Practical AI in software workflows
+- Team enablement and engineering culture
+- Delivery predictability and quality
+
+---
+
+## How I work
+- **Outcome-first:** define success metrics early and track impact continuously
+- **Pragmatic decisions:** balance speed, risk, and long-term maintainability
+- **Clear communication:** translate technical complexity for business stakeholders
+- **Iterative delivery:** small steps, fast feedback, stable progress
+- **High standards:** clean code, automation, and production readiness by default
+
+---
+
+## Case snapshots
+- **Platform stabilization**  
+  Increased release confidence and reduced delivery friction through architecture and process improvements.
+
+- **API performance uplift**  
+  Improved response times and reduced production incidents with focused backend optimization.
+
+- **Frontend quality lift**  
+  Improved consistency and increased feature throughput through better engineering practices.
+
+- **Delivery flow improvement**  
+  Helped teams reduce blockers, improve prioritization, and ship more predictably.
+
+---
+
+## Selected capabilities
+- Software architecture & technical strategy
+- API design and backend modernization
+- CI/CD pipeline design and DevOps enablement
+- Engineering leadership and team coaching
+- AI-assisted development workflows
+- Quality engineering and release governance
+
+---
+
+## Tech (representative)
+![TypeScript](https://img.shields.io/badge/TypeScript-0A0A0A?style=for-the-badge&logo=typescript)
+![JavaScript](https://img.shields.io/badge/JavaScript-0A0A0A?style=for-the-badge&logo=javascript)
+![Node.js](https://img.shields.io/badge/Node.js-0A0A0A?style=for-the-badge&logo=node.js)
+![React](https://img.shields.io/badge/React-0A0A0A?style=for-the-badge&logo=react)
+![Python](https://img.shields.io/badge/Python-0A0A0A?style=for-the-badge&logo=python)
+![GitHub](https://img.shields.io/badge/GitHub-0A0A0A?style=for-the-badge&logo=github)
+
+---
+
+## Let’s connect
+- GitHub: https://github.com/vinberg88
+- LinkedIn: https://www.linkedin.com/in/mattias-vinberg/
+- X / Twitter: https://x.com/mattiasvinberg
+- YouTube: https://www.youtube.com/@mattiasvinberg
+- Bluesky: https://bsky.app/profile/mattiasvinberg.bsky.social
+- Facebook: https://www.facebook.com/mattiasvinberg
+- Email: mattias@vinberg.pm
+
+---
+
+<p>
+
+Blanket for ANDROID 2026 - Listen to different sounds and Relax for ANDROID - My APP for blanket under work.
+TEST APP HERE. IT WILL BE BETTER BUT FOR NOW SO WE CAN START WORK ON BLANKET FOR ANDROID VIA GOOGEL PLAY...
+
+<a href="https://play.google.com/store/apps/details?id=com.vinberg88.blanket&pcampaignid=web_share"><img width="200" alt="Download via PlayStore" src="https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg"/></a>
+
+<a href="https://play.google.com/store/apps/details?id=com.vinberg88.blanket&pcampaignid=web_share"><img width="200" height="200" alt="Utan titel" src="https://github.com/user-attachments/assets/6b092127-cd8a-4020-92a6-622d0bdabb13" />
+
+<p>
