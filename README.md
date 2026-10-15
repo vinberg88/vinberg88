@@ -4,6 +4,8 @@
 
 This script for UBUNTU 24.04 will make any desktop to start for WSL [Start scirpt for ubuntu 24.04](https://github.com/vinberg88/ubuntu24.04-wsl2-systemd-script)
 
+This script for DEBIAN 13/14 will make any desktop to start for WSL [Start scirpt for DEBIAN](https://github.com/vinberg88/debian-start-script)
+
 OLD PAGE FOR WSL - https://github.com/vinberg88/opensuse
 
 <p align="center">
