@@ -24,7 +24,7 @@ Next setup for WSL and Linux on windows 11 are ROCKYLINUX 10 and 9 -  Run kde vi
 
 <p align="center">
 <a href="https://github.com/vinberg88/rockyliunux">
-<img width="480" height="160" alt="Rockylinux-WSL" src="https://github.com/user-attachments/assets/460e32aa-86ce-422f-928a-36a2078c8a11" />
+<img width="480" height="160" alt="rockylinux" src="https://github.com/user-attachments/assets/9dca9605-038d-4d24-a71c-0135228cea95" />
 </p>
 
 <p align="center">
