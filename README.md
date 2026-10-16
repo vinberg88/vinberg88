@@ -28,9 +28,13 @@ Working on Alpine Linux and KDE 6 for WSL - Comming SONE!
 NEWS FOR WSL - Will build so all WSL Linux distros have there own GitHUB. This will take some time - Building WSL page for desktops.
 
 
-Next setup for WSL and Linux on windows 11 are Centos - Comming SONE - Start on KDE for Centos - 2026
+Next setup for WSL and Linux on windows 11 are ROCKYLINUX 10 and 9 -  Run kde via WSL - Comming SONE - 2026
 </p>
 
+<p align="center">
+<a href="https://github.com/vinberg88/rockyliunux">
+<img width="480" height="160" alt="Rockylinux-WSL" src="https://github.com/user-attachments/assets/460e32aa-86ce-422f-928a-36a2078c8a11" />
+</p>
 
 <p align="center">
 <a href="https://github.com/vinberg88/centos">
