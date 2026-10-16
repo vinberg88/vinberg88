@@ -15,15 +15,6 @@ OLD PAGE FOR WSL - https://github.com/vinberg88/opensuse
 
 ---
 
-Working on Alpine Linux and KDE 6 for WSL - Comming SONE!
-
-<p align="center">
-<a href="https://github.com/vinberg88/alpine">
-<img width="480" height="160" alt="Alpine Linux" src="https://github.com/user-attachments/assets/2972b49c-6a0d-42a2-bc16-41d0e75e32ac" />
-</p>
-
----
-
 <p align="center">
 NEWS FOR WSL - Will build so all WSL Linux distros have there own GitHUB. This will take some time - Building WSL page for desktops.
 
@@ -34,6 +25,13 @@ Next setup for WSL and Linux on windows 11 are ROCKYLINUX 10 and 9 -  Run kde vi
 <p align="center">
 <a href="https://github.com/vinberg88/rockyliunux">
 <img width="480" height="160" alt="Rockylinux-WSL" src="https://github.com/user-attachments/assets/460e32aa-86ce-422f-928a-36a2078c8a11" />
+</p>
+
+Working on Alpine Linux and KDE 6 for WSL - Comming SONE!
+
+<p align="center">
+<a href="https://github.com/vinberg88/alpine">
+<img width="480" height="160" alt="Alpine Linux" src="https://github.com/user-attachments/assets/2972b49c-6a0d-42a2-bc16-41d0e75e32ac" />
 </p>
 
 <p align="center">
