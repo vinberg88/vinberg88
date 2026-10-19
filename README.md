@@ -1,4 +1,4 @@
-# Mattias Vinberg - CODE ARE LIFE - 2026 - Stockholm
+# Mattias Vinberg - CODE ARE LIFE - 2026 - Stockholm - EMAIL vinberg@duck.com
 
 ### Tech Consultant • Software Engineering • AI Delivery • DevOps • WSL • Node.JS • Java • Android apps for GOOGLE PLAY • Build Windows apps for Windows Store and alot more!
 
