@@ -30,6 +30,11 @@ Next setup for WSL and Linux on windows 11 are KALR LINUX -  Run kde via WSL - C
 </p>
 
 <p align="center">
+<a href="https://github.com/vinberg88/ubuntu/">
+<img width="480" height="156" alt="canonical" src="https://github.com/user-attachments/assets/70098060-a4e3-457d-a057-c35f7a7d537b" />
+</p>
+
+<p align="center">
 <a href="https://github.com/vinberg88/rockylinux">
 <img width="480" height="160" alt="rockylinux" src="https://github.com/user-attachments/assets/9dca9605-038d-4d24-a71c-0135228cea95" />
 </p>
@@ -72,11 +77,6 @@ Next setup for WSL and Linux on windows 11 are KALR LINUX -  Run kde via WSL - C
 <p align="center">
 <a href="https://github.com/vinberg88/ParrotOS">
 <img width="480" height="156" alt="parrot" src="https://www.xhamster.nu/parrot.png" />
-</p>
-
-<p align="center">
-<a href="https://github.com/vinberg88/ubuntu/">
-<img width="480" height="156" alt="canonical" src="https://github.com/user-attachments/assets/70098060-a4e3-457d-a057-c35f7a7d537b" />
 </p>
 
 <p align="center">
