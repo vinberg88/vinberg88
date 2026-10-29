@@ -2,13 +2,6 @@
 
 ### Tech Consultant • Software Engineering • AI Delivery • DevOps • WSL • Node.JS • Java • Android apps for GOOGLE PLAY • Build Windows apps for Windows Store and alot more!
 
-Best AI
-
-<p align="center">
-<a href="https://github.com/vinberg88/locally-uncensored">
-<img width="640" height="480" alt="fault" src="https://github.com/user-attachments/assets/dd3fd146-418c-4ec5-b32f-4869a9e2d35c" />
-</p>
-
 This script for UBUNTU 24.04 will make any desktop to start for WSL [Start scirpt for ubuntu 24.04](https://github.com/vinberg88/ubuntu24.04-wsl2-systemd-script)
 
 This script for DEBIAN 13/14 will make any desktop to start for WSL [Start scirpt for DEBIAN](https://github.com/vinberg88/debian-start-script)
@@ -112,6 +105,15 @@ Next setup for WSL and Linux on windows 11 are KALR LINUX -  Run kde via WSL - C
 <p align="center">
 <a href="https://github.com/vinberg88/openEuler">
 <img width="480" height="160" alt="OpenEuler" src="https://github.com/user-attachments/assets/574e3328-1673-412c-9666-eb930fb43943" />
+</p>
+
+---
+
+Best AI
+
+<p align="center">
+<a href="https://github.com/vinberg88/locally-uncensored">
+<img width="640" height="480" alt="fault" src="https://github.com/user-attachments/assets/dd3fd146-418c-4ec5-b32f-4869a9e2d35c" />
 </p>
 
 ---
