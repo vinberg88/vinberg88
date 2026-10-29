@@ -1,13 +1,13 @@
 # Mattias Vinberg - CODE ARE LIFE - 2026 - Stockholm
 
+### Tech Consultant • Software Engineering • AI Delivery • DevOps • WSL • Node.JS • Java • Android apps for GOOGLE PLAY • Build Windows apps for Windows Store and alot more!
+
 Best AI
 
 <p align="center">
 <a href="https://github.com/vinberg88/locally-uncensored">
 <img width="640" height="480" alt="fault" src="https://github.com/user-attachments/assets/dd3fd146-418c-4ec5-b32f-4869a9e2d35c" />
 </p>
-
-### Tech Consultant • Software Engineering • AI Delivery • DevOps • WSL • Node.JS • Java • Android apps for GOOGLE PLAY • Build Windows apps for Windows Store and alot more!
 
 This script for UBUNTU 24.04 will make any desktop to start for WSL [Start scirpt for ubuntu 24.04](https://github.com/vinberg88/ubuntu24.04-wsl2-systemd-script)
 
