@@ -4,7 +4,7 @@ Best AI - https://github.com/vinberg88/locally-uncensored
 
 <p align="center">
 <a href="https://github.com/vinberg88/locally-uncensored">
-<img width="100" height="800" alt="abbpp" src="https://github.com/user-attachments/assets/1224d47a-d889-4566-9cab-271bed04243e" />
+<img width="1000" height="800" alt="abbpp" src="https://github.com/user-attachments/assets/1224d47a-d889-4566-9cab-271bed04243e" />
 </p>
 
 ### Tech Consultant • Software Engineering • AI Delivery • DevOps • WSL • Node.JS • Java • Android apps for GOOGLE PLAY • Build Windows apps for Windows Store and alot more!
