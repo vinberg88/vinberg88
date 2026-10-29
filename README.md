@@ -1,10 +1,10 @@
 # Mattias Vinberg - CODE ARE LIFE - 2026 - Stockholm
 
-Best AI - https://github.com/vinberg88/locally-uncensored
+Best AI
 
 <p align="center">
 <a href="https://github.com/vinberg88/locally-uncensored">
-<img width="1000" height="800" alt="abbpp" src="https://github.com/user-attachments/assets/1224d47a-d889-4566-9cab-271bed04243e" />
+<img width="640" height="480" alt="fault" src="https://github.com/user-attachments/assets/dd3fd146-418c-4ec5-b32f-4869a9e2d35c" />
 </p>
 
 ### Tech Consultant • Software Engineering • AI Delivery • DevOps • WSL • Node.JS • Java • Android apps for GOOGLE PLAY • Build Windows apps for Windows Store and alot more!
