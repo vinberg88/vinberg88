@@ -113,7 +113,7 @@ Best AI for FREE and Build what you want!
 
 <p align="center">
 <a href="https://github.com/vinberg88/locally-uncensored">
-<img width="480" height="160" alt="fault" src="https://github.com/user-attachments/assets/dd3fd146-418c-4ec5-b32f-4869a9e2d35c" />
+<img width="600" height="300" alt="fault" src="https://github.com/user-attachments/assets/dd3fd146-418c-4ec5-b32f-4869a9e2d35c" />
 </p>
 
 ---
