@@ -109,7 +109,7 @@ Next setup for WSL and Linux on windows 11 are KALR LINUX -  Run kde via WSL - C
 
 ---
 
-Best AI for FREE and Build what you want!
+Best AI for FREE and Build what you want! https://github.com/vinberg88/locally-uncensored
 
 <p align="center">
 <a href="https://github.com/vinberg88/locally-uncensored">
