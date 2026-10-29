@@ -4,6 +4,11 @@ Contact me - vinberg@duck.com
 
 Best AI - https://github.com/vinberg88/locally-uncensored
 
+<p align="center">
+<a href="https://github.com/vinberg88/locally-uncensored">
+<img width="480" height="160" alt="abbpp" src="https://github.com/user-attachments/assets/1224d47a-d889-4566-9cab-271bed04243e" />
+</p>
+
 ### Tech Consultant • Software Engineering • AI Delivery • DevOps • WSL • Node.JS • Java • Android apps for GOOGLE PLAY • Build Windows apps for Windows Store and alot more!
 
 This script for UBUNTU 24.04 will make any desktop to start for WSL [Start scirpt for ubuntu 24.04](https://github.com/vinberg88/ubuntu24.04-wsl2-systemd-script)
