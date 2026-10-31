@@ -17,14 +17,6 @@ OLD PAGE FOR WSL - https://github.com/vinberg88/opensuse
 
 <p align="center">
 NEWS FOR WSL - Will build so all WSL Linux distros have there own GitHUB. This will take some time - Building WSL page for desktops.
-
-
-Next setup for WSL and Linux on windows 11 are KALI LINUX -  Run kde via WSL - Comming SONE - 2026
-</p>
-
-<p align="center">
-<a href="https://github.com/vinberg88/kali">
-<img width="480" height="160" alt="kal" src="https://github.com/user-attachments/assets/b2024c44-71fe-44f8-8dbb-651884b8efc9" />
 </p>
 
 <p align="center">
@@ -105,6 +97,11 @@ Next setup for WSL and Linux on windows 11 are KALI LINUX -  Run kde via WSL - C
 <p align="center">
 <a href="https://github.com/vinberg88/openEuler">
 <img width="480" height="160" alt="OpenEuler" src="https://github.com/user-attachments/assets/574e3328-1673-412c-9666-eb930fb43943" />
+</p>
+
+<p align="center">
+<a href="https://github.com/vinberg88/kali">
+<img width="480" height="160" alt="kal" src="https://github.com/user-attachments/assets/b2024c44-71fe-44f8-8dbb-651884b8efc9" />
 </p>
 
 ---
