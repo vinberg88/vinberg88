@@ -23,7 +23,7 @@ Comming NEXT - REBORN OS AND DIFFRENT DESKTOPS FOR WSL - 2026 - 2027
 
 <p align="center">
 <a href="https://github.com/vinberg88/RebornOS">
-<img width="599" height="255" alt="REBORN" src="https://github.com/user-attachments/assets/05fcb6c2-807e-485a-b5ff-4c708b5c7faa" />
+<img width="480" height="160" alt="REBORN" src="https://github.com/user-attachments/assets/05fcb6c2-807e-485a-b5ff-4c708b5c7faa" />
 </p>
 
 <p align="center">
