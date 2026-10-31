@@ -19,6 +19,13 @@ OLD PAGE FOR WSL - https://github.com/vinberg88/opensuse
 NEWS FOR WSL - Will build so all WSL Linux distros have there own GitHUB. This will take some time - Building WSL page for desktops.
 </p>
 
+Comming NEXT - REBORN OS AND DIFFRENT DESKTOPS FOR WSL - 2026 - 2027
+
+<p align="center">
+<a href="https://github.com/vinberg88/RebornOS">
+<img width="599" height="255" alt="REBORN" src="https://github.com/user-attachments/assets/05fcb6c2-807e-485a-b5ff-4c708b5c7faa" />
+</p>
+
 <p align="center">
 <a href="https://github.com/vinberg88/ubuntu/">
 <img width="480" height="156" alt="canonical" src="https://github.com/user-attachments/assets/70098060-a4e3-457d-a057-c35f7a7d537b" />
