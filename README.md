@@ -19,7 +19,7 @@ OLD PAGE FOR WSL - https://github.com/vinberg88/opensuse
 NEWS FOR WSL - Will build so all WSL Linux distros have there own GitHUB. This will take some time - Building WSL page for desktops.
 
 
-Next setup for WSL and Linux on windows 11 are KALR LINUX -  Run kde via WSL - Comming SONE - 2026
+Next setup for WSL and Linux on windows 11 are KALI LINUX -  Run kde via WSL - Comming SONE - 2026
 </p>
 
 <p align="center">
