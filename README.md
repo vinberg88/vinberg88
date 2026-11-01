@@ -19,7 +19,14 @@ OLD PAGE FOR WSL - https://github.com/vinberg88/opensuse
 NEWS FOR WSL - Will build so all WSL Linux distros have there own GitHUB. This will take some time - Building WSL page for desktops.
 </p>
 
-Comming NEXT - REBORN OS AND DIFFRENT DESKTOPS FOR WSL - 2026 - 2027
+---
+
+Comming NEXT - MX-LINUX AND DIFFRENT DESKTOPS FOR WSL AND THIS DEBIAN DIST =) - 2026
+
+<p align="center">
+<a href="https://github.com/vinberg88/mxlinux">
+<img width="480" height="160" alt="mx-linux-logo" src="https://github.com/user-attachments/assets/d15f3886-0c25-443c-ac5c-3a22ef64521d" />
+</p>
 
 <p align="center">
 <a href="https://github.com/vinberg88/RebornOS">
