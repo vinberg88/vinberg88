@@ -141,6 +141,18 @@ Information about WSL - https://vinberg88.github.io
 <img width="500" height="160" alt="master" src="https://github.com/user-attachments/assets/2ffbe675-d1a7-44c0-9a9a-51fd386f6074" />
 </p>
 
+Information about WSL - https://vinberg88.github.io
+<p align="center">
+<a href="https://vinberg88.github.io">
+<img width="500" height="160" alt="master" src="https://github.com/user-attachments/assets/2ffbe675-d1a7-44c0-9a9a-51fd386f6074" />
+</p>
+
+About WSL - https://github.com/vinberg88
+<p align="center">
+<a href="https://github.com/vinberg88">
+<img width="500" height="160" alt="desktop" src="https://github.com/user-attachments/assets/3b4acbea-c98a-4e48-b442-65036f29b698" />
+</p>
+
 ---
 ## About me - Mattias Vinberg
 I’m a Sweden-based tech consultant working at the intersection of software engineering, delivery leadership, and practical AI adoption. I support companies from strategy to execution: clarifying technical direction, improving team flow, and turning complex initiatives into working outcomes.
