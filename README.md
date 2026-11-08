@@ -144,7 +144,7 @@ Information about WSL - https://vinberg88.github.io
 About WSL - https://github.com/vinberg88
 <p align="center">
 <a href="https://github.com/vinberg88">
-<img width="700" height="200" alt="desktop" src="https://github.com/user-attachments/assets/3b4acbea-c98a-4e48-b442-65036f29b698" />
+<img width="850" height="200" alt="desktop" src="https://github.com/user-attachments/assets/3b4acbea-c98a-4e48-b442-65036f29b698" />
 </p>
 
 ---
