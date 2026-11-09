@@ -29,6 +29,11 @@ Comming NEXT - MX-LINUX AND DIFFRENT DESKTOPS FOR WSL AND THIS DEBIAN DIST =) - 
 </p>
 
 <p align="center">
+<a href="https://github.com/vinberg88/fedora">
+<img width="480" height="160" alt="fedora" src="https://www.xhamster.nu/fedora.png" />
+</p>
+
+<p align="center">
 <a href="https://github.com/vinberg88/RebornOS">
 <img width="480" height="160" alt="REBORN" src="https://github.com/user-attachments/assets/05fcb6c2-807e-485a-b5ff-4c708b5c7faa" />
 </p>
@@ -71,11 +76,6 @@ Comming NEXT - MX-LINUX AND DIFFRENT DESKTOPS FOR WSL AND THIS DEBIAN DIST =) - 
 <p align="center">
 <a href="https://github.com/vinberg88/almalinux">
 <img width="480" height="156" alt="parrot" src="https://www.xhamster.nu/almalinux.png" />
-</p>
-
-<p align="center">
-<a href="https://github.com/vinberg88/fedora">
-<img width="480" height="160" alt="fedora" src="https://www.xhamster.nu/fedora.png" />
 </p>
 
 <p align="center">
