@@ -118,6 +118,11 @@ Comming NEXT - MX-LINUX AND DIFFRENT DESKTOPS FOR WSL AND THIS DEBIAN DIST =) - 
 <img width="480" height="160" alt="kal" src="https://github.com/user-attachments/assets/b2024c44-71fe-44f8-8dbb-651884b8efc9" />
 </p>
 
+<p align="center">
+<a href="https://github.com/vinberg88/nixos">
+<img width="480" height="160" alt="nixos" src="https://github.com/user-attachments/assets/27b73633-93cc-4ab9-a7a0-a690a69825de" />
+</p>
+
 ---
 
 Best AI for FREE and Build what you want! https://github.com/vinberg88/locally-uncensored
