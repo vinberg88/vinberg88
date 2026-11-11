@@ -21,7 +21,10 @@ NEWS FOR WSL - Will build so all WSL Linux distros have there own GitHUB. This w
 
 ---
 
-Comming NEXT - MX-LINUX AND DIFFRENT DESKTOPS FOR WSL AND THIS DEBIAN DIST =) - 2026
+<p align="center">
+<a href="https://github.com/vinberg88/debian">
+<img width="480" height="160" alt="DEBIAN" src="https://github.com/user-attachments/assets/73fea716-b50c-4515-b47f-153a312565db" />
+</p>
 
 <p align="center">
 <a href="https://github.com/vinberg88/mxlinux">
@@ -101,11 +104,6 @@ Comming NEXT - MX-LINUX AND DIFFRENT DESKTOPS FOR WSL AND THIS DEBIAN DIST =) - 
 <p align="center">
 <a href="https://github.com/vinberg88/cachyos">
 <img width="480" height="160" alt="debian14" src="https://www.xhamster.nu/caxhyOS.png" />
-</p>
-
-<p align="center">
-<a href="https://github.com/vinberg88/debian">
-<img width="480" height="160" alt="debian14" src="https://github.com/user-attachments/assets/9b05632b-e1a6-4b66-9c52-864ed3d5d2b9" />
 </p>
 
 <p align="center">
