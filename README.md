@@ -27,11 +27,6 @@ NEWS FOR WSL - Will build so all WSL Linux distros have there own GitHUB. This w
 </p>
 
 <p align="center">
-<a href="https://github.com/vinberg88/mxlinux">
-<img width="480" height="160" alt="mx-linux-logo" src="https://github.com/user-attachments/assets/d15f3886-0c25-443c-ac5c-3a22ef64521d" />
-</p>
-
-<p align="center">
 <a href="https://github.com/vinberg88/fedora">
 <img width="480" height="160" alt="fedora" src="https://www.xhamster.nu/fedora.png" />
 </p>
@@ -119,6 +114,11 @@ NEWS FOR WSL - Will build so all WSL Linux distros have there own GitHUB. This w
 <p align="center">
 <a href="https://github.com/vinberg88/nixos">
 <img width="480" height="160" alt="nixos" src="https://github.com/user-attachments/assets/27b73633-93cc-4ab9-a7a0-a690a69825de" />
+</p>
+
+<p align="center">
+<a href="https://github.com/vinberg88/mxlinux">
+<img width="480" height="160" alt="mx-linux-logo" src="https://github.com/user-attachments/assets/d15f3886-0c25-443c-ac5c-3a22ef64521d" />
 </p>
 
 ---
