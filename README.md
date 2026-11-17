@@ -88,7 +88,7 @@ NEWS FOR WSL - Will build so all WSL Linux distros have there own GitHUB. This w
 
 <p align="center">
 <a href="https://github.com/vinberg88/pop-os-wsl">
-<img width="480" height="160" alt="fedora" src="https://www.xhamster.nu/popos.png" />
+<img width="480" height="160" alt="popos" src="https://github.com/user-attachments/assets/82457039-bac6-4588-8431-71ad7e76a543" />
 </p>
 
 <p align="center">
